@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naveen418
 - 👀 I’m interested in Devops Projects and associated tasks
-- 🌱 I’m currently learning Kubernets, ansible, Jenkins
-- 💞️ I’m looking to collaborate on AWS, DevOps
+- 🌱 expert in docker, Kubernets, ansible
+- 💞️ I’m looking to collaborate on Azure, AWS,DevOps
 - 📫 How to reach me gadaputi.naveen@gmail.com
 
 <!---
